@@ -18,5 +18,6 @@ Experiente Técnico de Suporte com um histórico de trabalho na indústria de te
 
 ## Projetos:
 Veja os projetos publicados:
-
+* [Analisando a Violência no Rio de Janeiro](https://github.com/marcustux1/Portfolio/blob/master/Violencia_RJ/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
+* [Análise dos Dados do Airbnb - Montreal, Canadá](https://github.com/marcustux1/Portfolio/blob/master/modulo_01/Analisando_os_Dados_do_Airbnb_Montreal.ipynb)
 ---
